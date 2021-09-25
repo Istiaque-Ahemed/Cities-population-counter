@@ -1,0 +1,13 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+.headr-part{
+    color: white;
+    background-color: black;
+    height: 200px;
+}
+.headr-part h2{
+    margin-top: 0px;
+    text-align: center;
+}

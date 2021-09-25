@@ -1,0 +1,50 @@
+[
+   {
+      "key": "JPN",
+      "cityName": "Kyoto",
+      "Country": "japan",
+      "Population": 1040000,
+      "FavoriteFood": "Yudofu (Boiled tofu)",
+      "Mayor": "Daisaku Kadokawa"
+   },
+   {
+      "key": "CRO",
+      "cityName": "Dubrovnik",
+      "country": "Croatia",
+      "population": 42615,
+      "favoriteFood": "Black Risotto (Crni Rizot)",
+      "mayor": "Mato Franković"
+   },
+   {
+      "key": "RUS",
+      "cityName": "St. Petersburg",
+      "country": "Russia",
+      "population": 490000,
+      "favoriteFood": "Beef stroganoff",
+      "mayor": "Daisaku Kadokawa"
+   },
+   {
+      "key": "CRE",
+      "cityName": "Prague",
+      "country": "Czech Republic",
+      "population": 1335084,
+      "favoriteFood": "Chlebíčky. This is a cute little sandwich",
+      "mayor": "Zdeněk Hřib"
+   },
+   {
+      "key": "SAF",
+      "cityName": "Cape Town",
+      "country": "South Africa",
+      "population": 4709990,
+      "favoriteFood": "Meat on a braai",
+      "mayor": "Dan Plato"
+   },
+   {
+      "key": "NRW",
+      "cityName": "Bergen",
+      "country": "Norway",
+      "population": 285900,
+      "favoriteFood": "Fårikål – Mutton and Cabbage.",
+      "mayor": "Marianne Borgen "
+   }
+]
