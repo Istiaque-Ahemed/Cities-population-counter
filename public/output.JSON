@@ -1,0 +1,74 @@
+ [
+  {
+    "key": "BAN",
+    "cityName": "Dhaka",
+    "country": "Bangladesh",
+    "population": 8000000,
+    "favoriteFood": "kacchi biryani",
+    "mayor": "Atiqul Islam and Sheikh Fazle Noor Taposh",
+    "img": "https://www.bruker.com/pl/services/support/asia-pacific/bangladesh-dhaka/_jcr_content/teaserImage.coreimg.jpeg/1603175687808/bangladesh---dhaka.jpeg"
+  },
+  {
+    "key": "JPN",
+    "cityName": "Kyoto",
+    "country": "japan",
+    "population": 1040000,
+    "favoriteFood": "Yudofu (Boiled tofu)",
+    "mayor": "Daisaku Kadokawa",
+    "img": "https://images.unsplash.com/photo-1581536763020-d2d7cfdd4df6?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1331&q=80"
+  },
+  {
+    "key": "CRO",
+    "cityName": "Dubrovnik",
+    "country": "Croatia",
+    "population": 42615,
+    "favoriteFood": "Black Risotto (Crni Rizot)",
+    "mayor": "Mato Franković",
+    "img": "https://uploads.exoticca.com/es_ES/destination/poi/dubrovnik.png"
+  },
+  {
+    "key": "RUS",
+    "cityName": "St. Petersburg",
+    "country": "Russia",
+    "population": 490000,
+    "favoriteFood": "Beef stroganoff",
+    "mayor": "Daisaku Kadokawa",
+    "img": "https://images.unsplash.com/photo-1491736525576-4954bf3e3187?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1470&q=80"
+  },
+  {
+    "key": "CRE",
+    "cityName": "Prague",
+    "country": "Czech Republic",
+    "population": 1335084,
+    "favoriteFood": "Chlebíčky. This is a cute little sandwich",
+    "mayor": "Zdeněk Hřib",
+    "img": "https://images.unsplash.com/photo-1541849546-216549ae216d?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1470&q=80"
+  },
+  {
+    "key": "SAF",
+    "cityName": "Cape Town",
+    "country": "South Africa",
+    "population": 4709990,
+    "favoriteFood": "Meat on a braai",
+    "mayor": "Dan Plato",
+    "img": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2019/04/15/13/istock-671323338.jpg?width=990&auto=webp&quality=75"
+  },
+  {
+    "key": "NRW",
+    "cityName": "Bergen",
+    "country": "Norway",
+    "population": 285900,
+    "favoriteFood": "Fårikål – Mutton and Cabbage.",
+    "mayor": "Marianne Borgen ",
+    "img": "https://images.unsplash.com/photo-1586635747240-230f28057f5a?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1470&q=80"
+  },
+  {
+    "key": "TUR",
+    "cityName": "Istambul",
+    "country": "Turkey",
+    "population": 15415197,
+    "favoriteFood": "Döner",
+    "mayor": "Ekrem İmamoğlu ",
+    "img": "https://scontent.fdac116-1.fna.fbcdn.net/v/t1.18169-9/26814837_1042056789281514_291268251358624183_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=730e14&_nc_ohc=IHciU4_KKuUAX8lbK0M&tn=rt6OZ1wPzRc6v4iV&_nc_ht=scontent.fdac116-1.fna&oh=43ec4caa23ec6ad9b46d0cce52a57248&oe=6175C571"
+  }
+]
