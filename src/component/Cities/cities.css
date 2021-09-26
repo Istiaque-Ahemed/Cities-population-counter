@@ -1,15 +1,14 @@
-.card-container{
+.cities-container{
     display: grid;
     grid-template-columns: 3fr 1fr;
 }
-.city-detil-container{
-
+.ditails{
+    display: grid;
+    grid-template-columns: repeat(3 ,1fr);
+    grid-gap: 10px;
+}
+.city-container{
     border-right: 1px solid lightgray;
     margin-right: 10px;
-    margin-left: 40px;
-}
-.cities{
-    display: grid;
-    grid-template-columns: repeat(3,1fr);
-    grid-gap: 5px;
+    margin-left: 30px;
 }

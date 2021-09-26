@@ -1,12 +1,21 @@
 .data-div{
-    background-color: black;
-    border:1px solid red;
-    /* margin: 10px;
-    padding: 15px; */
-    color: white;
+    background-color: rgba(135, 206, 250, 0.404);
+    height: 539px;
+    color:black;
 }
-.images{
-    width: 200px;
-    height:200px;
-    
+.data-div img{
+    padding:10px;
+    width: 300px;
+    height: 250px;
+}
+.data-div h5{
+    margin-left: 20px;
+}
+.data-div p{
+    margin-left: 24px;
+}
+.data-div button{
+    margin-left: 60px;
+    margin-bottom: 10px;
+    cursor: pointer;
 }

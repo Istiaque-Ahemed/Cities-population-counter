@@ -1,14 +1,10 @@
-body{
-    margin: 0px;
-    padding: 0px;
-}
 .headr-part{
-    color: white;
+    height: 300px;
     background-color: black;
-    height: 200px;
+    color: white;
+    margin-bottom: 30px;
+    
 }
 .headr-part h1{
     text-align: center;
-    font-size: 100p;
-    
 }
