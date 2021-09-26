@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import City from '../city/City';
 import Cart from '../Cart/Cart';
+
 import './cities.css'
 
 const Cities = () => {
@@ -37,9 +38,13 @@ const Cities = () => {
                 </div>
 
             </div>
+            
             <div className="seletor-container">
                
-                <Cart cart={cart}></Cart>
+                <Cart cart={cart}></Cart>   
+
+                
+               
             </div>
 
         </div>

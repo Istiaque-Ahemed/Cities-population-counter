@@ -1,0 +1,14 @@
+.cart{
+    background-color:rgba(138, 172, 236, 0.541);
+    box-shadow: 2px 4px 1px 0;
+    
+}
+.cart h3{
+    text-align: center;
+}
+.cart h5{
+    text-align: center;
+}
+.cart p{
+    text-align: center;
+}
